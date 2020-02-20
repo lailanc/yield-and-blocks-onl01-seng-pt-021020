@@ -9,7 +9,8 @@ end
 
 array
 else
-  puts 
+  puts "Hey! No block was given!"
+end
 end
 
 
