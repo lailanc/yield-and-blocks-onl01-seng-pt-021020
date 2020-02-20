@@ -8,6 +8,8 @@ i = 0
 end
 
 array
+else
+  puts 
 end
 
 
